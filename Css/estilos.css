@@ -275,6 +275,11 @@ background:rgba(0,0,0, 0.9) ;
 .etiquetas .contenido p{
     color: #6a6a6a;
 }
+.etiquetas .contenido p1{
+    color: #0B173B;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 
 
 
@@ -299,4 +304,17 @@ background:rgba(0,0,0, 0.9) ;
 
 .seriesPopulares .etiquetas{
     margin-right: 7px;    
+}
+
+/*---------------------Footer-----------------------*/
+.footer{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.footer h1{
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
 }
